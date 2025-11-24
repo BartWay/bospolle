@@ -4,8 +4,7 @@
 
 
 # Vakantiehuis op De Veluwe
-Welkom op deze site.
+Tekst over de plek, de geschiedenis en het huisje.
 
-[Bospolle](https://bospolle.vercel.app)
 
 
