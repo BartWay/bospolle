@@ -4,25 +4,19 @@
 
 
 ## Vakantiewoning
+Het oude huisje was toe aan een grootschalige renovatie. Het oude huisje had ook een paar nadelen. Zo was de woonkamer klein in vergelijking tot het aantal slaapplaatsen.  Daarom hebben we een Programma van Eisen opgesteld waar een opgeknapt of nieuw huisje aan moest voldoen.
 
-[[Nieuwbouw/Programma van Eisen Nieuwbouw\|Programma van Eisen Nieuwbouw]]
-
-Geschikt voor verblijf met twee gezinnen:
-
+### Ruimtelijke eisen
+Geschikt voor verblijf met twee gezinnen
 - Woonkamer met keuken geschikt voor 8 personen
 - 2 hoofdslaapkamers
 - 1 slaapkamer voor 4 personen of 2 slaapkamers voor 2 personen
 - Tenminste 1 badkamer en apart toilet
 - Ruimten bereikbaar vanuit hal
 - Plek voor wasmachine
-
-Wensen
-
+### Ruimtelijke wensen
 - 2e badkamer met ligbad
-
-  
-
-Bruikbaarheid en toegankelijkheid
+### Bruikbaarheid en toegankelijkheid
 
 - Volledig begane grond of begane grond en 1 verdieping 
 - Ruimten op begane grond grotendeels rolstoelgeschikt:
@@ -34,9 +28,8 @@ Bruikbaarheid en toegankelijkheid
 
 - Criteria: Handboek voor Toegankelijkheid, Integrale Toegankelijkheid Standaard (toegankelijkheidssymbool.nl). 
 
-  
-
-Ruimtelijke inpassing
+## Randvoorwaarden
+### Ruimtelijke inpassing
 
 Bestemmingsplan, welstand, beeldkwaliteit etc:
 
