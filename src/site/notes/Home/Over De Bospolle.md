@@ -6,6 +6,6 @@
 # Vakantiehuis op De Veluwe
 Welkom op deze site.
 
-[Bospolle](https://bospolle-riiv.vercel.app)
+[Bospolle](https://bospolle.vercel.app)
 
 
