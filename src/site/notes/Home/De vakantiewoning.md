@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/de-vakantiewoning/"}
 ---
 
-
+![Luchtfoto-Nieuwe-Bospolle.jpeg](/img/user/Fotos/Luchtfoto-Nieuwe-Bospolle.jpeg)
 ### Indeling
 
 Het huisje heeft een begane grond en een verdieping.
