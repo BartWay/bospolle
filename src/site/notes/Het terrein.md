@@ -7,6 +7,7 @@
 Er is een ruim terras dat direct grenst aan de woonkamer. 
 Buiten is een trampoline, glijbaan, schommels en een hangmat. 
 Ook is er een vuurplaats.
+![Huisje-vanaf-trampoline.jpeg](/img/user/Fotos/Huisje-vanaf-trampoline.jpeg)
 ### Fietsen
 Er zijn 5 fietsen en kinderfietsjes die gebruikt mogen worden (maar we kunnen niet garanderen dat de banden niet lek zijn). 
 ### Zwembad
