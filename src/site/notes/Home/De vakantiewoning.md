@@ -22,5 +22,9 @@ Op de begane grond zijn twee badkamers grenzend aan de slaapkamers. De badkamer 
 De andere badkamer heeft een ligbad met regendouche, toilet en wastafel. 
 
 ## Voorzieningen en apparatuur
-Op de begane grond is een werkkast met een wasmachine en droger.  Er is een meterkast buiten links naast de ingang. Het huisje heeft vloerverwarming en een grote elektrische boiler. De warmte wordt opgewekt door een grondwarmtepomp die het huisje op een constante temperatuur houdt en in de zomer wat kan koelen. De badkamers zijn voorzien van mechanische ventilatie.
-
+Op de begane grond is een werkkast met een wasmachine en droger.  Er is een meterkast buiten links naast de ingang. Het huisje heeft vloerverwarming en een grote elektrische boiler. De warmte wordt opgewekt door een grondwarmtepomp die het huisje op een constante temperatuur houdt en in de zomer wat kan koelen. De warmtepomp en het boilervat staan in een kast in één van de slaapkamers. 
+Een deel van de energie wordt opgewekt met zonnepanelen.
+De badkamers zijn voorzien van mechanische ventilatie.
+De schuifpuien in de woonkamer en één slaapkamer hebben elektrisch bedienbare buitenzonwering.
+Het huisje is niet aangesloten op de riolering, maar werkt met een IBA (een septic-tank).
+Aan de gevel naast de keuken is een buitenkraan en een buitenstopcontact.
