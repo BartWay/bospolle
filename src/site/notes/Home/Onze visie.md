@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/home/onze-visie/"}
 ---
 
+![Beukenbos.jpeg](/img/user/Fotos/Beukenbos.jpeg)
 De Bospolle is gelegen in een prachtig stukje bos en ligt helemaal vrij in de natuur. Wie er verblijft is even helemaal weg van het drukke leven en kan tot rust komen. We merken dat dit veel mensen goed doet. Het is onze wens dat veel mensen door het verblijf in de natuur even stil gezet worden en rust, inspiratie en nieuwe ideeën opdoen. 
 Daarom willen we dit bijzondere plekje zo goed mogelijk beheren en verder uitbouwen. 
 
