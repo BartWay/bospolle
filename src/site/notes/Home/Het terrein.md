@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/home/het-terrein/"}
 ---
 
+![Huisje-terras-vanaf-bos.jpeg](/img/user/Fotos/Huisje-terras-vanaf-bos.jpeg)
+
 ![Bos-met-hangmat.jpeg](/img/user/Fotos/Bos-met-hangmat.jpeg)
 ### Buiten zitten en spelen
 Er is een ruim terras dat direct grenst aan de woonkamer. 
