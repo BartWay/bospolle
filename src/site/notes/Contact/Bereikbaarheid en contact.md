@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contact/bereikbaarheid-en-contact/"}
 ---
 
-![Kaartje-omgeving.jpeg](/img/user/Fotos/Kaartje-omgeving.jpeg)
+![Plattegrond-omgeving.png](/img/user/Fotos/Plattegrond-omgeving.png)
 ### Adres
 Elspeterbosweg 149, 8076 RB Vierhouten
 ### Contact
