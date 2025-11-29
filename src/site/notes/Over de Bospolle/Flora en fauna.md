@@ -8,7 +8,7 @@ Ons bosperceel ligt midden in de noordelijke Veluwe, het grootste natuurgebied v
 Dieren die gezien zijn in ons bos, en die je dus kunt tegenkomen zijn:
 ![Wild-zwijn.jpeg](/img/user/Fotos/Wild-zwijn.jpeg)
 ### Zoogdieren
-* Edelhert
+* [[Edelhert.jpeg]]
 * Wild zwijn
 * Ree
 * Haas
