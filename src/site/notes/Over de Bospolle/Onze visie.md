@@ -9,3 +9,5 @@ Daarom willen we dit bijzondere plekje zo goed mogelijk beheren en verder uitbou
 In 2025 hebben we onze wens gerealiseerd om een nieuwe vakantiewoning te realiseren. We wilden het huisje graag duurzamer maken en ook meer laten voldoen aan de moderne eisen voor comfort. 
 
 Ook willen we het bos ook duurzaam beheren. We zijn bezig om wat principes van een voedselbos toe te passen.
+
+Esther en Bart Weggeman, Elvira en Hugo.

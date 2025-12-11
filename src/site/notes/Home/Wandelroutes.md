@@ -6,3 +6,4 @@ Je kunt heerlijk wandelen in de omgeving. Over de Elspeterhei, het Vierhouterbos
 * [Wandelroute Bergelt](https://www.staatsbosbeheer.nl/uit-in-de-natuur/wandelroute-bergelt)
 * [Wandeling Noorderheide](https://www.wereldwijdwandelen.nl/nederland/gelderland/wandeling-noorderheide-elspeet/)
 * [Elspeetsche Heideroute](https://veluwe.nl/route/elspeetsche-heideroute/)
+* [Wandelen Elspeetse heide](https://www.gezinopreis.nl/wandelen-elspeetse-heide-tijdkijkerpad/)

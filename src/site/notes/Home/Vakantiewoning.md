@@ -6,7 +6,7 @@
 ### Indeling
 Het huisje heeft een begane grond en een verdieping.
 De hal geeft toegang tot de woonkamer met keuken, twee slaapkamers, twee badkamers, een wasmachinekast en de trap naar de verdieping. Op de verdieping zijn nog twee slaapkamers. 
-
+![Huisje-vanaf-weg.jpeg](/img/user/Fotos/Huisje-vanaf-weg.jpeg)
 ### Woonkamer en keuken
 De woonkamer heeft een zithoek, eethoek en een keuken. Aan de woonkamer grenst een terras op het zuiden met uitzicht op het bos , bereikbaar  via schuifpuien. In de woonkamer is een houtkachel.
 In de keuken is een oven, een magnetron, een inductie kookplaat, koelkast met vriesvak en een vaatwasser. Verder is er een koffiezetapparaat, waterkoker en een broodrooster. 
