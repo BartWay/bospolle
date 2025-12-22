@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/welkom/","tags":["gardenEntry"]}
 ---
 
-![](Huisje-vanuit-bos.jpeg “Huisje vanuit het bos”)
+![](/img/user/Fotos/Huisje-vanuit-bos.jpeg)
 ## Welkom in De Bospolle
 
 De Bospolle is de naam van onze vakantiewoning op eigen terrein op De Veluwe.
