@@ -10,14 +10,16 @@ De hal geeft toegang tot de woonkamer met keuken, twee slaapkamers, twee badkame
 ### Woonkamer en keuken
 De woonkamer heeft een zithoek, eethoek en een keuken. Aan de woonkamer grenst een terras op het zuiden met uitzicht op het bos , bereikbaar  via schuifpuien. In de woonkamer is een houtkachel.
 In de keuken is een oven, een magnetron, een inductie kookplaat, koelkast met vriesvak en een vaatwasser. Verder is er een koffiezetapparaat, waterkoker en een broodrooster. 
-![Interieur-zithoek.jpeg](/img/user/Fotos/Interieur-zithoek.jpeg)
+![Woonkamer-1.jpeg](/img/user/Fotos/Woonkamer-1.jpeg)
 ## Slaapkamers
 Op de begane grond zijn aan weerszijden van de hal twee tweepersoons slaapkamers, elk met een schuifpui en een klein eigen terras. De rechter slaapkamer is rolstoelgeschikt en heeft een badkamer-en-suite.
+![Hoofdslaapkamer-2.jpeg](/img/user/Fotos/Hoofdslaapkamer-2.jpeg)
 Op de verdieping is een tweepersoons en een driepersoons slaapkamer.
-
+![Slaapkamer-verdieping-1.jpeg](/img/user/Fotos/Slaapkamer-verdieping-1.jpeg)
 ## Badkamers
 Op de begane grond zijn twee badkamers grenzend aan de slaapkamers. De badkamer die grenst aan de rolstoeltoegankelijke slaapkamer  beschikt over een douche met douche-zitje en regendouche, toilet met steunbeugels, en een wastafel,  Deze badkamer is vanuit de slaapkamer en vanuit de hal te bereiken.
 De andere badkamer heeft een ligbad met regendouche, toilet en wastafel. 
+![Badkamer-wastafel.jpeg](/img/user/Fotos/Badkamer-wastafel.jpeg)
 ### Voorzieningen
 Het huisje is geschikt voor kinderen, er is kinderspeelgoed aanwezig, een kinderbedje en kinderstoel. 
 Er is wifi, een kleine tv met een settop-box.
