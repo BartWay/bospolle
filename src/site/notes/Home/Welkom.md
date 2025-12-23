@@ -17,4 +17,4 @@ Esther en Bart Weggeman, Elvira en Hugo.
 [[Home/In de omgeving\|In de omgeving]]
 [[Contact/Bereikbaarheid en contact\|Bereikbaarheid en contact]]
 
-![De ingang van het huisje](/img/user/Fotos/Huisje-ingang.jpeg)
+![De ingang van het huisje](Huisje-ingang.jpeg ‘De ingang van het huisje’)
