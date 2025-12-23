@@ -5,9 +5,9 @@
 ![](/img/user/Fotos/Huisje-vanuit-bos.jpeg)
 ## Welkom in De Bospolle
 
-De Bospolle is de naam van onze vakantiewoning op eigen terrein op De Veluwe.
+De Bospolle is de naam van onze vakantiewoning en ons eigen stukje bos op De Veluwe.
 Het huisje is in 2025 volledig vernieuwd, geschikt voor maximaal 9 personen en van alle gemakken voorzien.
-Het huisje ligt helemaal vrij in het bos en er zijn tal van wandelpaden langs de hei en een vennetje op het eigen terrein van c.a 10 hectare. 
+Het huisje ligt helemaal vrij in het bos en er zijn tal van wandelpaden door ons eigen bos, langs de hei en een vennetje op het eigen terrein van c.a 10 hectare. 
 
 
 Esther en Bart Weggeman, Elvira en Hugo.
@@ -17,3 +17,4 @@ Esther en Bart Weggeman, Elvira en Hugo.
 [[Home/In de omgeving\|In de omgeving]]
 [[Contact/Bereikbaarheid en contact\|Bereikbaarheid en contact]]
 
+![De ingang van het huisje](/img/user/Fotos/Huisje-ingang.jpeg)
