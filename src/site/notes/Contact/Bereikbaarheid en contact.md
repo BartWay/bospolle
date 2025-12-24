@@ -4,7 +4,7 @@
 
 ![Plattegrond-omgeving.png](/img/user/Fotos/Plattegrond-omgeving.png)
 ### Adres
-[Elspeterbosweg 149, 8076 RB Vierhouten](https://maps.app.goo.gl/B4pc5AuWj5hzHwfr6)
+[Elspeterbosweg 149, 8076 RB Vierhouten](https://osm.org/go/0GQcSvKt?m=)
 ### Contact
 Esther en Bart Weggeman, Elvira en Hugo.
 
