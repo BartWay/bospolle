@@ -3,6 +3,7 @@
 ---
 
 <iframe width="600" height="450" src="https://www.openstreetmap.org/export/embed.html?bbox=5.8078837394714355%2C52.314526269699115%2C5.836164951324464%2C52.32345848235523&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+
 [Grotere kaart weergeven](https://osm.org/go/0GQcYED6)
 
 De ingang van het terrein op Google Streetview:
