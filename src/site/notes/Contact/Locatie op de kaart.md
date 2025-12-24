@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contact/locatie-op-de-kaart/"}
 ---
 
-<iframe width="600" height="450" src="https://www.openstreetmap.org/export/embed.html?bbox=5.8078837394714355%2C52.314526269699115%2C5.836164951324464%2C52.32345848235523&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+<iframe width="600" height="450" src="https://www.openstreetmap.org/export/embed.html?bbox=5.810565948486328%2C52.314526269699115%2C5.833482742309571%2C52.32345848235523&amp;layer=mapnik&amp;marker=52.31899260139222%2C5.822024345397949" style="border: 1px solid black"></iframe>
 
 [Grotere kaart weergeven](https://www.openstreetmap.org/?mlat=52.31899&mlon=5.82202#map=16/52.31899/5.82202)
 
