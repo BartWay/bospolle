@@ -24,6 +24,8 @@ De andere badkamer heeft een ligbad met regendouche, toilet en wastafel.
 Het huisje is geschikt voor kinderen, er is kinderspeelgoed aanwezig, een kinderbedje en kinderstoel. 
 Er is wifi, een kleine tv met een settop-box.
 De begane grond is drempelvrij en één van de slaapkamers en badkamer is rolstoelvriendelijk.
+Er is een houtkachel 
+![Houtkachel.gif](/img/user/Fotos/Houtkachel.gif)
 ### Apparatuur
 Op de begane grond is een werkkast met een wasmachine en droger.  Er is een meterkast buiten links naast de ingang. Het huisje heeft vloerverwarming en een grote elektrische boiler. De warmte wordt opgewekt door een grondwarmtepomp die het huisje op een constante temperatuur houdt en in de zomer wat kan koelen. De warmtepomp en het boilervat staan in een kast in één van de slaapkamers. 
 Een deel van de energie wordt opgewekt met zonnepanelen.
