@@ -7,8 +7,7 @@ De Bospolle is gelegen in een prachtig stukje bos en ligt helemaal vrij in de na
 Daarom willen we dit bijzondere plekje zo goed mogelijk beheren en verder uitbouwen. 
 ![Oude-huisje-vanuit-bos.jpeg](/img/user/Fotos/Oude-huisje-vanuit-bos.jpeg)
 Het oude vakantiehuisje.
-![Houtskeletbouw.jpeg](/img/user/Fotos/Houtskeletbouw.jpeg)
-Nieuwbouw van de vakantiewoning.
+![Houtskeletbouw.jpeg](/img/user/Fotos/Houtskeletbouw.jpeg) De nieuwe vakantiewoning in aanbouw.
 
 In 2025 hebben we onze wens gerealiseerd om een nieuwe vakantiewoning te realiseren. We wilden het huisje graag duurzamer maken en ook meer laten voldoen aan de moderne eisen voor comfort. 
 
