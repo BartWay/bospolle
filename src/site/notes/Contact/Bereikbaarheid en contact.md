@@ -2,13 +2,21 @@
 {"dg-publish":true,"permalink":"/contact/bereikbaarheid-en-contact/"}
 ---
 
-![Plattegrond-omgeving.png](/img/user/Fotos/Plattegrond-omgeving.png)
 ### Adres
-[Elspeterbosweg 149, 8076 RB Vierhouten](https://osm.org/go/0GQcSvKt?m=)
+Elspeterbosweg 149, 8076 RB Vierhouten
 ### Contact
 Esther en Bart Weggeman, Elvira en Hugo.
 
 [bospolle@gmail.com](mailto:bospolle@gmail.com)
 [Bospolle.vercel.app](https://bospolle@vercel.app)
 mobiel (Esther) 06 - 30 22 13 38
+
+### Kaart
+<iframe width="600" height="450" src="https://www.openstreetmap.org/export/embed.html?bbox=5.810565948486328%2C52.314526269699115%2C5.833482742309571%2C52.32345848235523&amp;layer=mapnik&amp;marker=52.31899260139222%2C5.822024345397949" style="border: 1px solid black"></iframe>
+
+[Grotere kaart weergeven](https://www.openstreetmap.org/?mlat=52.31899&mlon=5.82202#map=16/52.31899/5.82202)
+
+De ingang van het terrein op Google Streetview:
+<iframe src="https://www.google.com/maps/embed?pb=!4v1766441289145!6m8!1m7!1sWANw_eXWyCeKrTyd8mlRNQ!2m2!1d52.31718319638519!2d5.817359573696937!3f142.29520786660802!4f-16.124206362115387!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
