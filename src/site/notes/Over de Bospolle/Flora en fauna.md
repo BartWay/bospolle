@@ -9,17 +9,26 @@
 
 
 ![Edelhert.jpeg](/img/user/Fotos/Edelhert.jpeg)
-Edelhert
+[Edelhert](https://nl.wikipedia.org/wiki/Edelhert)
 
 </div></div>
 
-![Edelhert.jpeg](/img/user/Fotos/Edelhert.jpeg)
 Ons bosperceel ligt midden in de noordelijke Veluwe, het grootste natuurgebied van Nederland en een Natura-2000 gebied. Op het terrein leven veel wilde dieren, waaronder een aantal zeldzame en beschermde vogelsoorten.
 Dieren die gezien zijn in ons bos, en die je dus kunt tegenkomen zijn:
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
 ![Wild-zwijn.jpeg](/img/user/Fotos/Wild-zwijn.jpeg)
+Wild zwijn
+
+</div></div>
+
 ### Zoogdieren
-* [[Over de Bospolle/Edelhert\|Edelhert]]
-* Wild zwijn
+* [[Over de Bospolle/Fauna/Edelhert\|Edelhert]]
+* [[Over de Bospolle/Fauna/Wild zwijn\|Wild zwijn]]
 * Ree
 * Haas
 * Vos
