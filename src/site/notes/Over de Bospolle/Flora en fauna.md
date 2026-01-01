@@ -88,7 +88,7 @@ Er komen heel veel soorten insecten voor, ook spinnen, duizend- en miljoenpoten.
 
 
 
-![Edelhert.jpeg](/img/user/Fotos/Edelhert.jpeg)
+![Vliegend-hert.jpeg](/img/user/Fotos/Vliegend-hert.jpeg)
 [Vliegend hert](https://nl.wikipedia.org/wiki/Vliegend_hert)
 
 </div></div>
