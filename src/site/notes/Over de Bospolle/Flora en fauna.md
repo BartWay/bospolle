@@ -3,7 +3,7 @@
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/over-de-bospolle/fauna/edelhert/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -16,7 +16,7 @@
 Ons bosperceel ligt midden in de noordelijke Veluwe, het grootste natuurgebied van Nederland en een Natura-2000 gebied. Op het terrein leven veel wilde dieren, waaronder een aantal zeldzame en beschermde vogelsoorten.
 Dieren die gezien zijn in ons bos, en die je dus kunt tegenkomen zijn:
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/over-de-bospolle/fauna/wild-zwijn/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -27,8 +27,8 @@ Dieren die gezien zijn in ons bos, en die je dus kunt tegenkomen zijn:
 </div></div>
 
 ### Zoogdieren
-* [[Over de Bospolle/Fauna/Edelhert\|Edelhert]]
-* [[Over de Bospolle/Fauna/Wild zwijn\|Wild zwijn]]
+* Edelhert
+* Wild zwijn
 * Ree
 * Haas
 * Vos
@@ -40,7 +40,7 @@ Dieren die gezien zijn in ons bos, en die je dus kunt tegenkomen zijn:
 * Mol
 ### Vogels
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/over-de-bospolle/fauna/buizerd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -52,7 +52,7 @@ Dieren die gezien zijn in ons bos, en die je dus kunt tegenkomen zijn:
 </div></div>
 
 
-* [[Over de Bospolle/Fauna/Buizerd\|Buizerd]]
+* Buizerd
 * Valk
 * Bosuil
 * Wilde eend
@@ -62,7 +62,7 @@ Dieren die gezien zijn in ons bos, en die je dus kunt tegenkomen zijn:
 * Boomkruiper
 ### Reptielen en amfibien
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/over-de-bospolle/fauna/groene-kikker/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
