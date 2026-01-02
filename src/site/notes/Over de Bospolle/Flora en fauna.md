@@ -14,7 +14,8 @@
 </div></div>
 
 Ons bosperceel ligt midden in de noordelijke Veluwe, het grootste natuurgebied van Nederland en een Natura-2000 gebied. Op het terrein leven veel wilde dieren, waaronder een aantal zeldzame en beschermde vogelsoorten.
-Dieren die gezien zijn in ons bos, en die je dus kunt tegenkomen zijn:
+De dieren hieronder zijn gezien in ons bos en kun je tegenkomen. De foto’s zijn in ons bos gemaakt. 
+### Zoogdieren
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -26,7 +27,6 @@ Dieren die gezien zijn in ons bos, en die je dus kunt tegenkomen zijn:
 
 </div></div>
 
-### Zoogdieren
 * Edelhert
 * Wild zwijn
 * Ree
@@ -92,5 +92,3 @@ Er komen heel veel soorten insecten voor, ook spinnen, duizend- en miljoenpoten.
 [Vliegend hert](https://nl.wikipedia.org/wiki/Vliegend_hert)
 
 </div></div>
-
-De getoonde dierenfoto’s zijn in ons bos gemaakt. 
