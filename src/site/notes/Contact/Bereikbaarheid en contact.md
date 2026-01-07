@@ -9,7 +9,7 @@ Esther en Bart Weggeman, Elvira en Hugo.
 
 [bospolle@gmail.com](mailto:bospolle@gmail.com)
 [Bospolle.vercel.app](https://bospolle@vercel.app)
-mobiel (Esther) 06 - 30 22 13 38
+
 
 ### Kaart
 <iframe width="600" height="450" src="https://www.openstreetmap.org/export/embed.html?bbox=5.810565948486328%2C52.314526269699115%2C5.833482742309571%2C52.32345848235523&amp;layer=mapnik&amp;marker=52.31899260139222%2C5.822024345397949" style="border: 1px solid black"></iframe>

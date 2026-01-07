@@ -11,4 +11,3 @@ Buizerd
 ![Groene-kikker.jpeg](/img/user/Fotos/Groene-kikker.jpeg)
 Groene kikker
 ![Vliegend-hert.jpeg](/img/user/Fotos/Vliegend-hert.jpeg)
-Vliegend hert
