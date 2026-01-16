@@ -2,13 +2,18 @@
 {"dg-publish":true,"permalink":"/kenmerken/"}
 ---
 
-### Algemeen
+### Woning
 
+- Vrijstaand
+- Verdieping: 1
+- Woonkamer met keuken
 - Slaapkamers: 4
 - Badkamers: 2
+
+### Voorzieningen
+
 - Bad
 - Regendouche
-- Vrijstaand
 - Vloerverwarming
 - Internet
 - Wasmachine  
