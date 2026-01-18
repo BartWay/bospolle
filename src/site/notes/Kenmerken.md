@@ -12,7 +12,7 @@
 
 ### Voorzieningen
 
-- ✅ Bad
+- Bad
 - Regendouche
 - Vloerverwarming
 - Internet
