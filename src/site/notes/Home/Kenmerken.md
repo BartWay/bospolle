@@ -48,7 +48,6 @@
 - Schommel
 - Trampoline
 - Vuurwerkarm
-
 ### Toegankelijkheid
 
 - 2 slaapkamers op begane grond
