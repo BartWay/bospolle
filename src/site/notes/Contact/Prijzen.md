@@ -8,10 +8,11 @@ Buiten het hoogseizoen kan De Bospolle voor een weekend (vrijdag-maandag) of mid
 De aankomsttijd is vanaf 15.00 uur en de vertrektijd is uiterlijk 10.00 uur.
 
 In onderstaande tabel vindt u de tarieven per seizoen. 
-De prijs is gebaseerd op verblijf met 6 personen. Het huisje is geschikt voor maximaal 8 personen. Meerprijs per persoon per nacht is € 50.
+De prijs is gebaseerd op verblijf met 6 personen. Het huisje is geschikt voor maximaal 8 personen. Meerprijs per persoon per nacht is € 45,-.
 
 |           | Laagseizoen | Hoogseizoen |
 | --------- | ----------- | ----------- |
-| Weekeinde | € 750,-     |             |
-| Midweek   | € 850,-     |             |
-| Week      | € 1.550,-   |             |
+| Weekeinde | € 675,-     | € 945,-     |
+| Midweek   | € 765,-     | € 1.035,-   |
+| Week      | € 1.395,-   | € 1.755,-   |
+
