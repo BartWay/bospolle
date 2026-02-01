@@ -13,13 +13,19 @@ In de keuken is een oven, een magnetron, een inductie kookplaat, koelkast met vr
 ![Woonkamer-1.jpeg](/img/user/Fotos/Woonkamer-1.jpeg)
 ## Slaapkamers
 Op de begane grond zijn aan weerszijden van de hal twee tweepersoons slaapkamers, elk met een schuifpui en een klein eigen terras. De rechter slaapkamer is rolstoelgeschikt en heeft een badkamer-en-suite.
-![Hoofdslaapkamer-2.jpeg](/img/user/Fotos/Hoofdslaapkamer-2.jpeg)
+![[Hoofdslaapkamer-2.JPG]]
+
+![[Aangepaste-slaapkamer-1.JPG]]
+
+![[Badkamer-en-suite.JPG]]
 Op de verdieping is een tweepersoons en een driepersoons slaapkamer.
 ![Slaapkamer-verdieping-1.jpeg](/img/user/Fotos/Slaapkamer-verdieping-1.jpeg)
 ## Badkamers
 Op de begane grond zijn twee badkamers grenzend aan de slaapkamers. De badkamer die grenst aan de rolstoeltoegankelijke slaapkamer  beschikt over een douche met douche-zitje en regendouche, toilet met steunbeugels, en een wastafel,  Deze badkamer is vanuit de slaapkamer en vanuit de hal te bereiken.
 De andere badkamer heeft een ligbad met regendouche, toilet en wastafel. 
-![Badkamer-wastafel.jpeg](/img/user/Fotos/Badkamer-wastafel.jpeg)
+![[Douche-met-stoeltje.JPG]]
+
+![[Badkamer-met-bad.JPG]]
 ### Voorzieningen
 Het huisje is geschikt voor kinderen, er is kinderspeelgoed aanwezig, een kinderbedje en kinderstoel. 
 Er is wifi, een kleine tv met een settop-box.
