@@ -13,9 +13,9 @@ In de keuken is een oven, een magnetron, een inductie kookplaat, koelkast met vr
 ![Woonkamer-1.jpeg](/img/user/Fotos/Woonkamer-1.jpeg)
 ## Slaapkamers
 Op de begane grond zijn aan weerszijden van de hal twee tweepersoons slaapkamers, elk met een schuifpui en een klein eigen terras. De rechter slaapkamer is rolstoelgeschikt en heeft een badkamer-en-suite.
-![[Hoofdslaapkamer-2.JPG]]
+![Hoofdslaapkamer-2.jpg](/img/user/Fotos/Hoofdslaapkamer-2.jpg)
 
-![Aangepaste-slaapkamer-1.jpg](/img/user/Fotos/Aangepaste-slaapkamer-1.jpg)
+![Aangepaste-slaapkamer-2.jpg](/img/user/Fotos/Aangepaste-slaapkamer-2.jpg)
 
 ![Badkamer-en-suite.jpg](/img/user/Fotos/Badkamer-en-suite.jpg)
 Op de verdieping zijn twee tweepersoons slaapkamers.
