@@ -18,7 +18,7 @@ Op de begane grond zijn aan weerszijden van de hal twee tweepersoons slaapkamers
 ![Aangepaste-slaapkamer-1.jpg](/img/user/Fotos/Aangepaste-slaapkamer-1.jpg)
 
 ![Badkamer-en-suite.jpg](/img/user/Fotos/Badkamer-en-suite.jpg)
-Op de verdieping is een tweepersoons en een driepersoons slaapkamer.
+Op de verdieping zijn twee tweepersoons slaapkamers.
 ![Slaapkamer-verdieping-1.jpeg](/img/user/Fotos/Slaapkamer-verdieping-1.jpeg)
 ## Badkamers
 Op de begane grond zijn twee badkamers grenzend aan de slaapkamers. De badkamer die grenst aan de rolstoeltoegankelijke slaapkamer  beschikt over een douche met douche-zitje en regendouche, toilet met steunbeugels, en een wastafel,  Deze badkamer is vanuit de slaapkamer en vanuit de hal te bereiken.
