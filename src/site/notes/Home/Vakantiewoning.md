@@ -22,9 +22,9 @@ Op de verdieping zijn twee tweepersoons slaapkamers.
 ![Slaapkamer-verdieping-1.jpeg](/img/user/Fotos/Slaapkamer-verdieping-1.jpeg)
 ## Badkamers
 Op de begane grond zijn twee badkamers grenzend aan de slaapkamers. De badkamer die grenst aan de rolstoeltoegankelijke slaapkamer  beschikt over een douche met douche-zitje en regendouche, toilet met steunbeugels, en een wastafel,  Deze badkamer is vanuit de slaapkamer en vanuit de hal te bereiken.
-De andere badkamer heeft een ligbad met regendouche, toilet en wastafel. 
 ![Douche-met-stoeltje.jpg](/img/user/Fotos/Douche-met-stoeltje.jpg)
 
+De andere badkamer heeft een ligbad met regendouche, toilet en wastafel. 
 ![Badkamer-met-bad.jpg](/img/user/Fotos/Badkamer-met-bad.jpg)
 ### Voorzieningen
 Het huisje is geschikt voor kinderen, er is kinderspeelgoed aanwezig, een kinderbedje en kinderstoel. 
