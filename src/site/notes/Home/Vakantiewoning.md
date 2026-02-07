@@ -8,6 +8,9 @@
 Het huisje heeft een begane grond en een verdieping.
 De hal geeft toegang tot de woonkamer met keuken, twee slaapkamers, twee badkamers, een wasmachinekast en de trap naar de verdieping. Op de verdieping zijn nog twee slaapkamers. 
 ![Huisje-vanaf-weg.jpeg](/img/user/Fotos/Huisje-vanaf-weg.jpeg)
+![Uitzicht-woonkamer.jpeg](/img/user/Fotos/Uitzicht-woonkamer.jpeg)
+
+![Kachel-en-gewei.jpeg](/img/user/Fotos/Kachel-en-gewei.jpeg)
 ### Woonkamer en keuken
 De woonkamer heeft een zithoek, eethoek en een keuken. Aan de woonkamer grenst een terras op het zuiden met uitzicht op het bos , bereikbaar  via schuifpuien. In de woonkamer is een houtkachel.
 In de keuken is een oven, een magnetron, een inductie kookplaat, koelkast met vriesvak en een vaatwasser. Verder is er een koffiezetapparaat, waterkoker en een broodrooster. 
@@ -15,8 +18,9 @@ In de keuken is een oven, een magnetron, een inductie kookplaat, koelkast met vr
 ![Woonkamer-1.jpeg](/img/user/Fotos/Woonkamer-1.jpeg)
 
 ![Woonkamer-2.jpeg](/img/user/Fotos/Woonkamer-2.jpeg)
-
 ![Woonkamer-3.jpeg](/img/user/Fotos/Woonkamer-3.jpeg)
+
+![Keuken.jpeg](/img/user/Fotos/Keuken.jpeg)
 ## Slaapkamers
 Op de begane grond zijn aan weerszijden van de hal twee tweepersoons slaapkamers, elk met een schuifpui en een klein eigen terras. De rechter slaapkamer is rolstoelgeschikt en heeft een badkamer-en-suite.
 ![Hoofdslaapkamer-2.jpg](/img/user/Fotos/Hoofdslaapkamer-2.jpg)
@@ -24,15 +28,24 @@ Op de begane grond zijn aan weerszijden van de hal twee tweepersoons slaapkamers
 ![Aangepaste-slaapkamer-2.jpg](/img/user/Fotos/Aangepaste-slaapkamer-2.jpg)
 
 ![Badkamer-en-suite.jpg](/img/user/Fotos/Badkamer-en-suite.jpg)
-Op de verdieping zijn twee tweepersoons slaapkamers.
-![Slaapkamer-verdieping-1.jpeg](/img/user/Fotos/Slaapkamer-verdieping-1.jpeg)
 ## Badkamers
 Op de begane grond zijn twee badkamers grenzend aan de slaapkamers. De badkamer die grenst aan de rolstoeltoegankelijke slaapkamer  beschikt over een douche met douche-zitje en regendouche, toilet met steunbeugels, en een wastafel,  Deze badkamer is vanuit de slaapkamer en vanuit de hal te bereiken.
 ![Douche-met-stoeltje.jpg](/img/user/Fotos/Douche-met-stoeltje.jpg)
 
+![[Douchehoek.JPG]]
 De andere badkamer heeft een ligbad met regendouche, toilet en wastafel. 
 ![Badkamer-met-bad.jpg](/img/user/Fotos/Badkamer-met-bad.jpg)
-### Voorzieningen
+
+![Bad-met-douchehoek.jpg](/img/user/Fotos/Bad-met-douchehoek.jpg)
+
+## Verdieping
+![Uitzicht-overloop.jpeg](/img/user/Fotos/Uitzicht-overloop.jpeg)
+![Overloop-3.jpeg](/img/user/Fotos/Overloop-3.jpeg)
+Op de verdieping zijn twee tweepersoonsslaapkamers.
+![Slaapkamer-verdieping-1.jpeg](/img/user/Fotos/Slaapkamer-verdieping-1.jpeg)
+
+![Slaapkamer-verdieping-2.jpeg](/img/user/Fotos/Slaapkamer-verdieping-2.jpeg)
+## Voorzieningen
 Het huisje is geschikt voor kinderen, er is kinderspeelgoed aanwezig, een kinderbedje en kinderstoel. 
 Er is wifi, een kleine tv met een settop-box.
 De begane grond is drempelvrij en één van de slaapkamers en badkamer is rolstoelvriendelijk.
