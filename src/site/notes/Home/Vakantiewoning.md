@@ -30,7 +30,7 @@ Op de begane grond zijn aan weerszijden van de hal twee tweepersoons slaapkamers
 ![Badkamer-en-suite.jpg](/img/user/Fotos/Badkamer-en-suite.jpg)
 ## Badkamers
 Op de begane grond zijn twee badkamers grenzend aan de slaapkamers. De badkamer die grenst aan de rolstoeltoegankelijke slaapkamer  beschikt over een douche met douche-zitje en regendouche, toilet met steunbeugels, en een wastafel,  Deze badkamer is vanuit de slaapkamer en vanuit de hal te bereiken.
-![[Douchehoek.JPG]]
+![Douchehoek.jpg](/img/user/Fotos/Douchehoek.jpg)
 
 ![Douche-met-stoeltje.jpg](/img/user/Fotos/Douche-met-stoeltje.jpg)
 De andere badkamer heeft een ligbad met regendouche, toilet en wastafel. 
