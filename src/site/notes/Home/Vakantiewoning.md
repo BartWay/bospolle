@@ -3,6 +3,7 @@
 ---
 
 ![Luchtfoto-Nieuwe-Bospolle.jpeg](/img/user/Fotos/Luchtfoto-Nieuwe-Bospolle.jpeg)
+![Huisje-zicht-op-woonkamer.jpeg](/img/user/Fotos/Huisje-zicht-op-woonkamer.jpeg)
 ### Indeling
 Het huisje heeft een begane grond en een verdieping.
 De hal geeft toegang tot de woonkamer met keuken, twee slaapkamers, twee badkamers, een wasmachinekast en de trap naar de verdieping. Op de verdieping zijn nog twee slaapkamers. 
@@ -10,7 +11,12 @@ De hal geeft toegang tot de woonkamer met keuken, twee slaapkamers, twee badkame
 ### Woonkamer en keuken
 De woonkamer heeft een zithoek, eethoek en een keuken. Aan de woonkamer grenst een terras op het zuiden met uitzicht op het bos , bereikbaar  via schuifpuien. In de woonkamer is een houtkachel.
 In de keuken is een oven, een magnetron, een inductie kookplaat, koelkast met vriesvak en een vaatwasser. Verder is er een koffiezetapparaat, waterkoker en een broodrooster. 
+
 ![Woonkamer-1.jpeg](/img/user/Fotos/Woonkamer-1.jpeg)
+
+![Woonkamer-2.jpeg](/img/user/Fotos/Woonkamer-2.jpeg)
+
+![Woonkamer-3.jpeg](/img/user/Fotos/Woonkamer-3.jpeg)
 ## Slaapkamers
 Op de begane grond zijn aan weerszijden van de hal twee tweepersoons slaapkamers, elk met een schuifpui en een klein eigen terras. De rechter slaapkamer is rolstoelgeschikt en heeft een badkamer-en-suite.
 ![Hoofdslaapkamer-2.jpg](/img/user/Fotos/Hoofdslaapkamer-2.jpg)
