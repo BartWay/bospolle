@@ -27,7 +27,7 @@ De dieren hieronder zijn gezien in ons bos en kun je tegenkomen. De foto’s zij
 
 </div></div>
 
-* Edelhert
+* [[Over de Bospolle/Fauna/Edelhert\|Edelhert]]
 * Wild zwijn
 * Ree
 * Haas
