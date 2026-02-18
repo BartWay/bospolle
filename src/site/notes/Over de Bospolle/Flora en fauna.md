@@ -9,7 +9,7 @@
 
 
 ![Edelhert.jpeg](/img/user/Fotos/Edelhert.jpeg)
-[Edelhert](https://nl.wikipedia.org/wiki/Edelhert)
+[Edelhert](https://nl.wikipedia.org/wiki/Edelhert (wikipedia))
 
 </div></div>
 
