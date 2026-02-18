@@ -23,12 +23,12 @@ De dieren hieronder zijn gezien in ons bos en kun je tegenkomen. De foto’s zij
 
 
 ![Wild-zwijn.jpeg](/img/user/Fotos/Wild-zwijn.jpeg)
-[Wild zwijn](https://nl.wikipedia.org/wiki/Wild_zwijn)
+[Wild zwijn (Wikipedia)](https://nl.wikipedia.org/wiki/Wild_zwijn)
 
 </div></div>
 
 * [[Over de Bospolle/Fauna/Edelhert\|Edelhert]]
-* Wild zwijn
+* [[Over de Bospolle/Fauna/Wild zwijn\|Wild zwijn]]
 * Ree
 * Haas
 * Vos
@@ -46,13 +46,13 @@ De dieren hieronder zijn gezien in ons bos en kun je tegenkomen. De foto’s zij
 
 
 ![Buizerd.jpeg](/img/user/Fotos/Buizerd.jpeg)
-[Buizerd](https://nl.wikipedia.org/wiki/Buizerd)
+[Buizerd (Wikipedia) )](https://nl.wikipedia.org/wiki/Buizerd)
 
 
 </div></div>
 
 
-* Buizerd
+* [[Over de Bospolle/Fauna/Buizerd\|Buizerd]]
 * Valk
 * Bosuil
 * Wilde eend
@@ -68,7 +68,7 @@ De dieren hieronder zijn gezien in ons bos en kun je tegenkomen. De foto’s zij
 
 
 ![Groene-kikker.jpeg](/img/user/Fotos/Groene-kikker.jpeg)
-[Groene kikker](https://nl.wikipedia.org/wiki/Groene_kikkers)
+[Groene kikker (Wikipedia)](https://nl.wikipedia.org/wiki/Groene_kikkers)
 
 </div></div>
 
@@ -76,7 +76,7 @@ De dieren hieronder zijn gezien in ons bos en kun je tegenkomen. De foto’s zij
 * Ringslang
 * Hazelworm
 * Hagedissen
-* Groene en bruine kikker
+* Bruine en [[Over de Bospolle/Fauna/Groene kikker\|groene kikker]]
 * Padden
 * Salamanders (verschillende soorten)
 ### Insecten 
@@ -89,6 +89,6 @@ Er komen heel veel soorten insecten voor, ook spinnen, duizend- en miljoenpoten.
 
 
 ![Vliegend-hert.jpeg](/img/user/Fotos/Vliegend-hert.jpeg)
-[Vliegend hert](https://nl.wikipedia.org/wiki/Vliegend_hert)
+[Vliegend hert (Wikipedia)](https://nl.wikipedia.org/wiki/Vliegend_hert)
 
 </div></div>
