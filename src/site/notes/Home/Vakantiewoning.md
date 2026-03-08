@@ -5,6 +5,8 @@
 ![Luchtfoto-Nieuwe-Bospolle.jpeg](/img/user/Fotos/Luchtfoto-Nieuwe-Bospolle.jpeg)
 
 ![Huisje-zicht-op-woonkamer.jpeg](/img/user/Fotos/Huisje-zicht-op-woonkamer.jpeg)
+![Huisje-met-inrichting-3.png](/img/user/Fotos/Huisje-met-inrichting-3.png)
+
 ### Indeling
 Het huisje heeft een begane grond en een verdieping.
 De hal geeft toegang tot de woonkamer met keuken, twee slaapkamers, twee badkamers, een wasmachinekast en de trap naar de verdieping. Op de verdieping zijn nog twee slaapkamers. 
