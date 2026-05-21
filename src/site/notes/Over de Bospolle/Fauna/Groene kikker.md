@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/over-de-bospolle/fauna/groene-kikker/"}
+{"dg-publish":true,"permalink":"/over-de-bospolle/fauna/groene-kikker/","dg-note-properties":{}}
 ---
 
 ![Groene-kikker.jpeg](/img/user/Fotos/Groene-kikker.jpeg)

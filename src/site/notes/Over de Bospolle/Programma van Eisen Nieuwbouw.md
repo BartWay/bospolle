@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/over-de-bospolle/programma-van-eisen-nieuwbouw/"}
+{"dg-publish":true,"permalink":"/over-de-bospolle/programma-van-eisen-nieuwbouw/","dg-note-properties":{}}
 ---
 
 ![Oude-vakantiewoning.jpeg](/img/user/Fotos/Oude-vakantiewoning.jpeg)

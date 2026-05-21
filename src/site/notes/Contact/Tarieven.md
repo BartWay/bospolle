@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contact/tarieven/"}
+{"dg-publish":true,"permalink":"/contact/tarieven/","dg-note-properties":{}}
 ---
 
 De Bospolle wordt in het hoogseizoen verhuurd voor perioden van 1 week (vrijdag-vrijdag). De schoolvakanties gelden als hoogseizoen.

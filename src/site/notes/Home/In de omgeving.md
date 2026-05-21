@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/in-de-omgeving/"}
+{"dg-publish":true,"permalink":"/home/in-de-omgeving/","dg-note-properties":{}}
 ---
 
 ![Elspeterhei.jpeg](/img/user/Fotos/Elspeterhei.jpeg)

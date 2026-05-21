@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/over-de-bospolle/onze-visie/"}
+{"dg-publish":true,"permalink":"/over-de-bospolle/onze-visie/","dg-note-properties":{}}
 ---
 
 ![Bos-in-de-mist.jpeg](/img/user/Fotos/Bos-in-de-mist.jpeg)

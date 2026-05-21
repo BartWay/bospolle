@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/over-de-bospolle/fauna/edelhert/"}
+{"dg-publish":true,"permalink":"/over-de-bospolle/fauna/edelhert/","dg-note-properties":{}}
 ---
 
 ![Edelhert.jpeg](/img/user/Fotos/Edelhert.jpeg)

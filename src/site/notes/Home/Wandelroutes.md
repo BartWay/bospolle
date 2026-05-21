@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/wandelroutes/"}
+{"dg-publish":true,"permalink":"/home/wandelroutes/","dg-note-properties":{}}
 ---
 
 Je kunt heerlijk wandelen in de omgeving. Over de Elspeterhei, het Vierhouterbos of op landgoed Noorderheide. Hieronder staan een aantal wandelroutes:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/kenmerken/"}
+{"dg-publish":true,"permalink":"/home/kenmerken/","dg-note-properties":{}}
 ---
 
 ### Woning

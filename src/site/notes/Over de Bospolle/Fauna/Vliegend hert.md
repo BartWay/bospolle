@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/over-de-bospolle/fauna/vliegend-hert/"}
+{"dg-publish":true,"permalink":"/over-de-bospolle/fauna/vliegend-hert/","dg-note-properties":{}}
 ---
 
 ![Vliegend-hert.jpeg](/img/user/Fotos/Vliegend-hert.jpeg)

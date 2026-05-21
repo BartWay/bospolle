@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/over-de-bospolle/foto-s/"}
+{"dg-publish":true,"permalink":"/over-de-bospolle/foto-s/","dg-note-properties":{}}
 ---
 
 ![Edelhert.jpeg](/img/user/Fotos/Edelhert.jpeg)

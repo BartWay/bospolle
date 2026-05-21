@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contact/bereikbaarheid-en-contact/"}
+{"dg-publish":true,"permalink":"/contact/bereikbaarheid-en-contact/","dg-note-properties":{}}
 ---
 
 ### Adres

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/vakantiewoning/"}
+{"dg-publish":true,"permalink":"/home/vakantiewoning/","dg-note-properties":{}}
 ---
 
 ![Luchtfoto-Nieuwe-Bospolle.jpeg](/img/user/Fotos/Luchtfoto-Nieuwe-Bospolle.jpeg)

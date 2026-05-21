@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/over-de-bospolle/flora-en-fauna/"}
+{"dg-publish":true,"permalink":"/over-de-bospolle/flora-en-fauna/","dg-note-properties":{}}
 ---
 
 

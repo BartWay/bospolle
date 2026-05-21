@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/welkom/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/welkom/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 ![Huisje-vanuit-bos.jpeg](/img/user/Fotos/Huisje-vanuit-bos.jpeg)
