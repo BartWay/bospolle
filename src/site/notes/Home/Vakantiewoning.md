@@ -6,8 +6,11 @@
 Luchtfoto
 ![Huisje-zicht-op-woonkamer.jpeg](/img/user/Fotos/Huisje-zicht-op-woonkamer.jpeg)
 Zuidgevel vanuit het bos
-![Huisje-met-inrichting-3.png](/img/user/Fotos/Huisje-met-inrichting-3.png)
+![Plattegrond-begane-grond-1.png](/img/user/Fotos/Plattegrond-begane-grond-1.png)
 Plattegrond van de begane grond
+
+![Verdieping-met-inrichting-1.png](/img/user/Fotos/Verdieping-met-inrichting-1.png)
+Plattegrond van de verdieping
 ### Indeling
 Het huisje heeft een begane grond en een verdieping.
 De hal geeft toegang tot de woonkamer met keuken, twee slaapkamers, twee badkamers, een wasmachinekast en de trap naar de verdieping. Op de verdieping zijn nog twee slaapkamers. 
